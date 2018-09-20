@@ -4,6 +4,8 @@ Please review the [guidelines for contributing](http://solidity.readthedocs.io/e
 
 Please also note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
 
+Please delete everything in this template apart from the checklist itself.
+
 ### Checklist
 - [ ] Code compiles correctly
 - [ ] All tests are passing
